@@ -1,4 +1,4 @@
-<h1 align="center">CV</h1>
+# CV
 A static website that summarises who I am, what my experiences are, the research articles I worked on, and my personal interests.
 
 Visit it at: https://branco-heuts.github.io/CV-Website/
